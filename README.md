@@ -2,6 +2,8 @@
 
 Welcome to **noorAlmobin**, a PWA Book & Calendar Application! This project integrates a calendar, the Quran, Nahj al-Balagha, and several other books into a single, user-friendly Progressive Web App (PWA). Developed using **Deno Fresh** for the frontend and **Deno Lesan** for the backend, this application aims to provide an accessible platform for engaging with important texts and managing schedules seamlessly.
 
+This project just used for testing some github action and other technologies, maybe in later this project find own way.
+
 ## Features
 
 - **Interactive Calendar**: Manage your events, reminders, and important dates effortlessly.
