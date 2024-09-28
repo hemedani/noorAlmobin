@@ -1,0 +1,22 @@
+*.orig
+*.pyc
+*.swp
+.env
+
+/.cargo_home/
+/.idea/
+/.vs/
+/.vscode/
+gclient_config.py_entries
+/target/
+
+# MacOS generated files
+.DS_Store
+.DS_Store?
+
+# JUnit files produced by deno test --junit
+junit.xml
+
+# Jupyter files
+.ipynb_checkpoints/
+Untitled*.ipynb
