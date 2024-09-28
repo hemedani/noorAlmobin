@@ -1,0 +1,8 @@
+{
+  "tasks": {
+    "dev": "ENV=development deno run -A --watch --watch-exclude=declarations --no-clear-screen mod.ts"
+  },
+  "name": "@noor/core",
+  "version": "0.0.0",
+  "exports": "./mod.ts"
+}
