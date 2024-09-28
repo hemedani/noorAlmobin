@@ -20,3 +20,4 @@ junit.xml
 # Jupyter files
 .ipynb_checkpoints/
 Untitled*.ipynb
+declarations/selectInp.ts
