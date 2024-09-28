@@ -1,0 +1,6 @@
+{
+  "workspace": [
+    "./lib",
+    "./auth"
+  ]
+}
